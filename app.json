@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "WorkApi",
+    "slug": "WorkApi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "WorkApi"
+}
